@@ -2,8 +2,8 @@
 
 In this challange I used pandas module to firstly combine two csv files and then extract the data.
 
-**Part1**
-District Summary
+## Part1
+**District Summary**
 Create a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
 
 Total schools
@@ -15,7 +15,7 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
-
+## Part 2
 **School Summary**
 Create a DataFrame that summarizes key metrics about each school, including the following:
 
@@ -30,7 +30,7 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
-
+## Part3
 **Highest-Performing Schools (by % Overall Passing)**
 Create a DataFrame that highlights the top 5 performing schools based on % Overall Passing. Include the following metrics:
 
@@ -60,7 +60,7 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
-
+## Part4
 **Math Scores by Grade**
 Create a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
@@ -75,7 +75,6 @@ Average reading score
 % passing math (the percentage of students who passed math)
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
-
 
 **Scores by School Size**
 Create a table that breaks down school performance based on school size (small, medium, or large).
